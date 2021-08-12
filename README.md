@@ -12,3 +12,6 @@ A thorough analysis of the housing prices dataset and estimation of median house
 
 ## RUL
 Estimation of Remaining Useful Life for motor sensor data with time series
+
+## DeepChem
+Bayesian optimization of hyperparameters for the QM8 dataset using Circular Fingerprints featurizer
